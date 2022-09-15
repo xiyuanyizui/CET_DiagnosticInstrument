@@ -1,13 +1,13 @@
 ; 有关创建 Inno Setup 脚本文件的详细资料请查阅帮助文档！
 
 #define MyAppName "CET Diagnostic Instrument"
-#define MyAppVersion "2.1.3.193"
+#define MyAppVersion "2.1.4"
 #define MyAppPublisher "cetxiyuan"
 #define MyAppURL "http://www.cetxiyuan.com/"
 #define MyAppExeName "CET_DiagnosticInstrument.exe"
 #define MyAppIcon  "F:\sharefolder\cetqtlearn\CET_DiagnosticInstrument\CET_DiagnosticInstrument-setup\favorite.ico"
 ;注： Release-正式版  Beta-测试版
-#define MyVersionTip "Beta"
+#define MyVersionTip "Release"
 
 [Setup]
 ; 注: AppId的值为单独标识该应用程序。
